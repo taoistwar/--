@@ -1,0 +1,307 @@
+{
+  "main": {
+    "id": "40534d5539d130e0",
+    "type": "split",
+    "children": [
+      {
+        "id": "464a36ca34c7054f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ac7ba518f716501e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. 资源/丹道/丹道.README.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d404747a99ac1990",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. 周期笔记/2024/Daily/06/2024-06-20.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7c823ae8e5bbb4a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. 领域/README.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8d815a9b2e13a682",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. 资源/DIY/电子/从零开始DIY.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "67a368b00f7cc96f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. 资源/DIY/电子/电路.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a02df58fdebc545f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. 资源/DIY/电子/电阻.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c90da0d280d0d442",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. 资源/DIY/电子/电压.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "23c9aae68e18434d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. 资源/DIY/电子/二极管.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c2ded893f043a527",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. 资源/DIY/电子/三极管.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "facde2bb3edc251e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. 领域/个人品牌/个人品牌.README.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 9
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3e16b4c2984a26ba",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "f1d7077ce07a07f8",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "deaecdf32ca672ee",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "35d5faef0d44bcab",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "79987c728e32a2e5",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          }
+        }
+      },
+      {
+        "id": "6d72aa708b4294a1",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "06804790d339606c",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "288f10e0387823a5",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "2. 领域/个人品牌/个人品牌.README.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "bcab36c58e079cd3",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "2. 领域/个人品牌/个人品牌.README.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "5976e50db8731468",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "2. 领域/个人品牌/个人品牌.README.md"
+          }
+        }
+      },
+      {
+        "id": "9a54e295e0d4c4df",
+        "type": "leaf",
+        "state": {
+          "type": "periodic-para",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 3
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "command-palette:打开命令面板": false,
+      "random-note:开始漫游笔记": false,
+      "workspaces:管理工作区布局": false,
+      "templater-obsidian:Templater": false,
+      "periodic-para:LifeOS": false,
+      "fuzzy-chinese-pinyin:FuzzySearch": false
+    }
+  },
+  "active": "facde2bb3edc251e",
+  "lastOpenFiles": [
+    "3. 资源/DIY/电子/变压器.md",
+    "2. 领域/个人品牌/个人品牌.README.md",
+    "3. 资源/DIY/电子/线性稳压器.md",
+    "2. 领域/个人品牌/商业.md",
+    "3. 资源/DIY/电子/场效应管.md",
+    "3. 资源/DIY/电子/三极管.md",
+    "3. 资源/DIY/电子/二极管.md",
+    "3. 资源/DIY/电子/电感.md",
+    "3. 资源/DIY/电子/电压.md",
+    "3. 资源/丹道/未命名.md",
+    "3. 资源/DIY/电子/电路.md",
+    "3. 资源/DIY/电子/电功.md",
+    "3. 资源/DIY/电子/电阻.md",
+    "3. 资源/DIY/电子/从零开始DIY.md",
+    "3. 资源/DIY/电子/元器件.md",
+    "2. 领域/README.md",
+    "0. 周期笔记/2024/Daily/06/2024-06-20.md",
+    "3. 资源/丹道/丹道.README.md",
+    "-1. 捕获/电子设计入门教程-硬件.md",
+    "-1. 捕获/小说名句.md",
+    "2. 领域/数学/数学.README.md",
+    "0. 周期笔记/2024/2024.md",
+    "2. 领域/数学/死磕数学 幂.md",
+    "3. 资源/知识管理/obsidian 多端同步.md",
+    "3. 资源/知识管理/obsidian 文档属性.md",
+    "3. 资源/DIY/DIY.README.md"
+  ]
+}
