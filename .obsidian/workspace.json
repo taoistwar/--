@@ -68,9 +68,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3bac7c2df15b23b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "电路原理/第3讲 支路变量(branch variables).md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -210,18 +223,15 @@
       "random-note:开始漫游笔记": false,
       "workspaces:管理工作区布局": false,
       "audio-recorder:开始/结束录音": false,
-      "templates:插入模板": false,
-      "fuzzy-chinese-pinyin:FuzzySearch": false,
-      "obsidian-local-images-plus:Local Images Plus  0.15.9\r\nLocalize attachments (plugin folder)": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false
+      "templates:插入模板": false
     }
   },
   "active": "288538aa4804d0d5",
   "lastOpenFiles": [
+    "电路原理/image/恒定加速度的变化率.png",
     "电路原理/电子元器件/电阻.md",
     "中英翻译.md",
     "电路原理/第0讲 数学基础知识（Math basics for circuits）.md",
-    "电路原理/image/恒定加速度的变化率.png",
     "电路原理/电子元器件/元器件.md",
     "电路原理/工具/工具软件.md",
     "电路原理/电子/电源.md",
