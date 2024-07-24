@@ -4,86 +4,46 @@
     "type": "split",
     "children": [
       {
-        "id": "46330aa562e4a67e",
+        "id": "0a9377ddb158f5f4",
         "type": "tabs",
         "children": [
           {
-            "id": "53819248c4456049",
+            "id": "13692577de33aa42",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "电路原理/电子元器件/三极管.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "31a5fef92403876d",
             "type": "leaf",
             "state": {
               "type": "image",
               "state": {
-                "file": "电路原理/image/恒定加速度的变化率.png"
+                "file": "电路原理/image/三极管的电路符号.png"
               }
             }
           },
           {
-            "id": "ec821059ff4c2dc1",
+            "id": "be8ad93c6d23fd28",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "电路原理/第0讲 数学基础知识（Math basics for circuits）.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cadc6ea0248af7ae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "中英翻译.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3dbe612f1cc55c13",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "电路原理/电子元器件/电阻.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8d6afc365f7d883e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "电路原理/电子元器件/电容.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3bac7c2df15b23b0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "电路原理/第3讲 支路变量(branch variables).md",
+                "file": "电路原理/电子元器件/二极管.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -160,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "电路原理/image/恒定加速度的变化率.png",
+                "file": "电路原理/电子元器件/三极管.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "电路原理/image/恒定加速度的变化率.png"
+                "file": "电路原理/电子元器件/三极管.md"
               }
             }
           },
@@ -182,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "电路原理/image/恒定加速度的变化率.png",
+                "file": "电路原理/电子元器件/三极管.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,7 +166,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -223,46 +183,49 @@
       "random-note:开始漫游笔记": false,
       "workspaces:管理工作区布局": false,
       "audio-recorder:开始/结束录音": false,
-      "templates:插入模板": false
+      "templates:插入模板": false,
+      "fuzzy-chinese-pinyin:FuzzySearch": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "obsidian-local-images-plus:Local Images Plus  0.15.9\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "288538aa4804d0d5",
+  "active": "6d086e2d3fce45ca",
   "lastOpenFiles": [
+    "电路原理/image/三极管的电路符号.png",
+    "电路原理/电子元器件/三极管.md",
+    "电路原理/image/三极管的图形符号.png",
+    "电路原理/电子元器件/二极管.md",
+    "电路原理/电子/运放电路.md",
+    "电路原理/电子/信号.md",
+    "硬工.md",
+    "中英翻译.md",
+    "从零开始DIY.md",
+    "电路原理/第3讲 支路变量(branch variables).md",
+    "电路原理/第8讲 端口(port).md",
+    "电路原理/第9讲 受控元件(dependent elements).md",
+    "电路原理/第10讲 基尔霍夫定律(KCL KVL).md",
+    "电路原理/第11讲 2B法.md",
+    "电路原理/第12讲 电阻的串并联(serial parallel resistors).md",
+    "电路原理/第13讲 平衡电桥(bridge).md",
+    "电路原理/第7讲 独立电源(independent source).md",
+    "电路原理/第6讲 电阻(resistor).md",
+    "电路原理/第5讲 功率(power).md",
+    "电路原理/第4讲 参考方向(reference direction).md",
+    "电路原理/电子/电动势.md",
+    "电路原理/电子/电压.md",
     "电路原理/image/恒定加速度的变化率.png",
     "电路原理/电子元器件/电阻.md",
-    "中英翻译.md",
     "电路原理/第0讲 数学基础知识（Math basics for circuits）.md",
     "电路原理/电子元器件/元器件.md",
     "电路原理/工具/工具软件.md",
     "电路原理/电子/电源.md",
-    "电路原理/电子元器件/继电器.md",
-    "电路原理/电子/信号.md",
-    "电路原理/电子元器件/三极管.md",
     "电路原理/image/NPN样例电路.png",
     "电路原理/image/PNP样例电路.png",
     "电路原理/image/NPN.png",
     "电路原理/image/PNP.png",
-    "电路原理/电子元器件/线性稳压器.md",
     "电路原理/image/PNP.png",
-    "电路原理/image/三极管的图形符号.png",
-    "电路原理/第3讲 支路变量(branch variables).md",
     "电路原理/image/非线性变化速度的累积效应.png",
     "电路原理/image/线性变化速度的累积效应.png",
-    "电路原理/image/变化加速度的累积效应.png",
-    "电路原理.md",
-    "电路原理 2.md",
-    "电路原理 1.md",
-    "电路原理/第2讲 电路(circuits).md",
-    "从零开始DIY.md",
-    "电路原理/第1讲 为什么要学习电路（why learn circuits）.md",
-    "电路原理/电子元器件/二极管.md",
-    "电路原理/电子元器件/电感.md",
-    "电路原理/电子/电流.md",
-    "电路原理/电子/电动势.md",
-    "电路原理/电子/电位.md",
-    "电路原理/电子/电压.md",
-    "电路原理/电子/电平.md",
-    "硬工.md",
     "电路原理",
     "主页.canvas",
     "3. 资源/DIY/电气定律",
