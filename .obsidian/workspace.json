@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "电路原理/电子元器件/三极管.md",
+                "file": "化学/初中化学/初中化学：绪言.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "电路原理/电子元器件/三极管.md",
+                "file": "化学/初中化学/初中化学：绪言.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "电路原理/电子元器件/三极管.md"
+                "file": "化学/初中化学/初中化学：绪言.md"
               }
             }
           },
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "电路原理/电子元器件/三极管.md",
+                "file": "化学/初中化学/初中化学：绪言.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,10 +189,13 @@
       "obsidian-local-images-plus:Local Images Plus  0.15.9\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "6d086e2d3fce45ca",
+  "active": "13692577de33aa42",
   "lastOpenFiles": [
-    "电路原理/image/三极管的电路符号.png",
     "电路原理/电子元器件/三极管.md",
+    "化学/初中化学/初中化学：绪言.md",
+    "化学/初中化学",
+    "化学",
+    "电路原理/image/三极管的电路符号.png",
     "电路原理/image/三极管的图形符号.png",
     "电路原理/电子元器件/二极管.md",
     "电路原理/电子/运放电路.md",
@@ -235,8 +238,6 @@
     "1. 项目/工作/OneGame/images",
     "1. 项目/工作/OneGame",
     "0. 周期笔记/Invalid date/Daily/Invalid date",
-    "0. 周期笔记/Invalid date/Daily",
-    "0. 周期笔记/Invalid date",
     "未命名.canvas",
     "HOME.canvas",
     "Templates/HOME.canvas",
