@@ -4,39 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0a9377ddb158f5f4",
+        "id": "ceb19d709e6876df",
         "type": "tabs",
         "children": [
           {
-            "id": "13692577de33aa42",
+            "id": "cd0627eea4e0038f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "化学/初中化学/初中化学：绪言.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "31a5fef92403876d",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "电路原理/image/三极管的电路符号.png"
-              }
-            }
-          },
-          {
-            "id": "be8ad93c6d23fd28",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "电路原理/电子元器件/二极管.md",
+                "file": "硬工.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -120,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "化学/初中化学/初中化学：绪言.md",
+                "file": "硬工.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "化学/初中化学/初中化学：绪言.md"
+                "file": "硬工.md"
               }
             }
           },
@@ -142,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "化学/初中化学/初中化学：绪言.md",
+                "file": "硬工.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +143,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -189,15 +166,15 @@
       "obsidian-local-images-plus:Local Images Plus  0.15.9\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "13692577de33aa42",
+  "active": "288538aa4804d0d5",
   "lastOpenFiles": [
-    "电路原理/电子元器件/三极管.md",
+    "电路原理/电子元器件/二极管.md",
+    "电路原理/image/三极管的电路符号.png",
     "化学/初中化学/初中化学：绪言.md",
+    "电路原理/电子元器件/三极管.md",
     "化学/初中化学",
     "化学",
-    "电路原理/image/三极管的电路符号.png",
     "电路原理/image/三极管的图形符号.png",
-    "电路原理/电子元器件/二极管.md",
     "电路原理/电子/运放电路.md",
     "电路原理/电子/信号.md",
     "硬工.md",
@@ -221,7 +198,6 @@
     "电路原理/第0讲 数学基础知识（Math basics for circuits）.md",
     "电路原理/电子元器件/元器件.md",
     "电路原理/工具/工具软件.md",
-    "电路原理/电子/电源.md",
     "电路原理/image/NPN样例电路.png",
     "电路原理/image/PNP样例电路.png",
     "电路原理/image/NPN.png",
