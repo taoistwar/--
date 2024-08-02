@@ -8,25 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ac7ba518f716501e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3. 资源/丹道/丹道.README.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "d404747a99ac1990",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. 周期笔记/2024/Daily/06/2024-06-20.md",
+                "file": "电路原理/第6讲 电阻(resistor).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -39,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. 领域/README.md",
+                "file": "电路原理/电子元器件/电阻.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -50,95 +37,52 @@
             "id": "8d815a9b2e13a682",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3. 资源/DIY/电子/从零开始DIY.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
             "id": "67a368b00f7cc96f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3. 资源/DIY/电子/电路.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
             "id": "a02df58fdebc545f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3. 资源/DIY/电子/电阻.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
             "id": "c90da0d280d0d442",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3. 资源/DIY/电子/电压.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
             "id": "23c9aae68e18434d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3. 资源/DIY/电子/二极管.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
             "id": "c2ded893f043a527",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3. 资源/DIY/电子/三极管.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "facde2bb3edc251e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. 领域/个人品牌/个人品牌.README.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -216,7 +160,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "2. 领域/个人品牌/个人品牌.README.md",
+            "file": "电路原理/电子元器件/电阻.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -233,7 +177,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "2. 领域/个人品牌/个人品牌.README.md",
+            "file": "电路原理/电子元器件/电阻.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -245,7 +189,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "2. 领域/个人品牌/个人品牌.README.md"
+            "file": "电路原理/电子元器件/电阻.md"
           }
         }
       },
@@ -262,6 +206,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "templates:插入模板": false,
+      "audio-recorder:开始/结束录音": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
@@ -271,12 +217,12 @@
       "random-note:开始漫游笔记": false,
       "workspaces:管理工作区布局": false,
       "templater-obsidian:Templater": false,
-      "periodic-para:LifeOS": false,
       "fuzzy-chinese-pinyin:FuzzySearch": false
     }
   },
-  "active": "facde2bb3edc251e",
+  "active": "7c823ae8e5bbb4a6",
   "lastOpenFiles": [
+    "电路原理/第6讲 电阻(resistor).md",
     "3. 资源/DIY/电子/变压器.md",
     "2. 领域/个人品牌/个人品牌.README.md",
     "3. 资源/DIY/电子/线性稳压器.md",
@@ -301,7 +247,6 @@
     "0. 周期笔记/2024/2024.md",
     "2. 领域/数学/死磕数学 幂.md",
     "3. 资源/知识管理/obsidian 多端同步.md",
-    "3. 资源/知识管理/obsidian 文档属性.md",
-    "3. 资源/DIY/DIY.README.md"
+    "3. 资源/知识管理/obsidian 文档属性.md"
   ]
 }
