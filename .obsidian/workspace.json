@@ -4,60 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "ceb19d709e6876df",
+        "id": "33a8a9701f963a9c",
         "type": "tabs",
         "children": [
           {
-            "id": "3c8b15a27bb66602",
+            "id": "d5319e4d0fc450d7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "数学/数学公式/幂.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0f5e1a2f3df8b060",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "硬工.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dbe5ee635398c169",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "数学/幂公式.md"
-              }
-            }
-          },
-          {
-            "id": "060fa628c48bf80f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "数学/重新发明数学/死磕数学08 幂.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +92,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "硬工.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,9 +102,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "硬工.md"
-              }
+              "state": {}
             }
           },
           {
@@ -156,7 +111,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "硬工.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,12 +157,13 @@
       "obsidian-local-images-plus:Local Images Plus  0.15.9\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "288538aa4804d0d5",
+  "active": "d5319e4d0fc450d7",
   "lastOpenFiles": [
     "数学/数学公式/幂.md",
     "硬工.md",
     "数学/幂公式.md",
     "数学/重新发明数学/死磕数学08 幂.md",
+    "电路原理/第13讲 平衡电桥(bridge).md",
     "数学/数学公式.md",
     "数学/数学公式",
     "Excalidraw",
@@ -229,7 +184,6 @@
     "电路原理/第10讲 基尔霍夫定律(KCL KVL).md",
     "电路原理/第11讲 2B法.md",
     "电路原理/第12讲 电阻的串并联(serial parallel resistors).md",
-    "电路原理/第13讲 平衡电桥(bridge).md",
     "电路原理/第7讲 独立电源(independent source).md",
     "电路原理/第6讲 电阻(resistor).md",
     "电路原理/第5讲 功率(power).md",
