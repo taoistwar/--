@@ -32,9 +32,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "72b88edc387e7a7f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "电路原理/6.002 2000 年秋 第一讲.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -111,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "电路原理/第13讲 平衡电桥(bridge).md",
+                "file": "电路原理/6.002 2000 年秋 第一讲.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "电路原理/第13讲 平衡电桥(bridge).md"
+                "file": "电路原理/6.002 2000 年秋 第一讲.md"
               }
             }
           },
@@ -133,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "电路原理/第13讲 平衡电桥(bridge).md",
+                "file": "电路原理/6.002 2000 年秋 第一讲.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,9 +194,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "288538aa4804d0d5",
+  "active": "72b88edc387e7a7f",
   "lastOpenFiles": [
     "电路原理/第13讲 平衡电桥(bridge).md",
+    "电路原理/6.002 2000 年秋 第一讲.md",
+    "电子学",
     "数学/数学公式/幂.md",
     "硬工.md",
     "数学/幂公式.md",
@@ -215,7 +230,6 @@
     "电路原理/电子/电动势.md",
     "电路原理/电子/电压.md",
     "电路原理/image/恒定加速度的变化率.png",
-    "电路原理/电子元器件/电阻.md",
     "电路原理/image/NPN样例电路.png",
     "电路原理/image/PNP样例电路.png",
     "电路原理/image/NPN.png",
@@ -229,7 +243,6 @@
     "2. 领域/Rust",
     "3. 资源/DIY/工具",
     "3. 资源/DIY/电子元器件",
-    "1. 项目/工作/OneGame/images",
     "未命名.canvas",
     "HOME.canvas",
     "Templates/HOME.canvas",
