@@ -45,9 +45,35 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4d8b98f961bef28d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "中英翻译.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2c0273c8fb61526e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "xx.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -76,7 +102,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "继电",
+                "query": "file:xx",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -124,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "电路原理/6.002 2000 年秋 第一讲.md",
+                "file": "xx.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "电路原理/6.002 2000 年秋 第一讲.md"
+                "file": "xx.md"
               }
             }
           },
@@ -146,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "电路原理/6.002 2000 年秋 第一讲.md",
+                "file": "xx.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,10 +220,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "72b88edc387e7a7f",
+  "active": "2c0273c8fb61526e",
   "lastOpenFiles": [
-    "电路原理/第13讲 平衡电桥(bridge).md",
+    "中英翻译.md",
+    "xx.md",
+    "未命名.md",
     "电路原理/6.002 2000 年秋 第一讲.md",
+    "电路原理/第13讲 平衡电桥(bridge).md",
     "电子学",
     "数学/数学公式/幂.md",
     "硬工.md",
@@ -215,7 +244,6 @@
     "电路原理/image/三极管的图形符号.png",
     "电路原理/电子/运放电路.md",
     "电路原理/电子/信号.md",
-    "中英翻译.md",
     "从零开始DIY.md",
     "电路原理/第3讲 支路变量(branch variables).md",
     "电路原理/第8讲 端口(port).md",
@@ -227,8 +255,6 @@
     "电路原理/第6讲 电阻(resistor).md",
     "电路原理/第5讲 功率(power).md",
     "电路原理/第4讲 参考方向(reference direction).md",
-    "电路原理/电子/电动势.md",
-    "电路原理/电子/电压.md",
     "电路原理/image/恒定加速度的变化率.png",
     "电路原理/image/NPN样例电路.png",
     "电路原理/image/PNP样例电路.png",
