@@ -11,11 +11,56 @@
             "id": "d5319e4d0fc450d7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "电路原理/第13讲 平衡电桥(bridge).md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ac3510570721d357",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "电路原理/第0讲 数学基础知识（Math basics for circuits）.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "72b88edc387e7a7f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "电路原理/6.002 2000 年秋 第一讲.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4d8b98f961bef28d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "中英翻译.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -44,7 +89,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "继电",
+                "query": "file:xx",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,7 +147,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "xx.md"
+              }
             }
           },
           {
@@ -154,16 +201,22 @@
       "templates:插入模板": false,
       "fuzzy-chinese-pinyin:FuzzySearch": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false,
-      "obsidian-local-images-plus:Local Images Plus  0.15.9\r\nLocalize attachments (plugin folder)": false
+      "obsidian-local-images-plus:Local Images Plus  0.15.9\r\nLocalize attachments (plugin folder)": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "d5319e4d0fc450d7",
+  "active": "288538aa4804d0d5",
   "lastOpenFiles": [
+    "中英翻译.md",
+    "xx.md",
+    "未命名.md",
+    "电路原理/6.002 2000 年秋 第一讲.md",
+    "电路原理/第13讲 平衡电桥(bridge).md",
+    "电子学",
     "数学/数学公式/幂.md",
     "硬工.md",
     "数学/幂公式.md",
     "数学/重新发明数学/死磕数学08 幂.md",
-    "电路原理/第13讲 平衡电桥(bridge).md",
     "数学/数学公式.md",
     "数学/数学公式",
     "Excalidraw",
@@ -176,7 +229,6 @@
     "电路原理/image/三极管的图形符号.png",
     "电路原理/电子/运放电路.md",
     "电路原理/电子/信号.md",
-    "中英翻译.md",
     "从零开始DIY.md",
     "电路原理/第3讲 支路变量(branch variables).md",
     "电路原理/第8讲 端口(port).md",
@@ -188,10 +240,7 @@
     "电路原理/第6讲 电阻(resistor).md",
     "电路原理/第5讲 功率(power).md",
     "电路原理/第4讲 参考方向(reference direction).md",
-    "电路原理/电子/电动势.md",
-    "电路原理/电子/电压.md",
     "电路原理/image/恒定加速度的变化率.png",
-    "电路原理/电子元器件/电阻.md",
     "电路原理/image/NPN样例电路.png",
     "电路原理/image/PNP样例电路.png",
     "电路原理/image/NPN.png",
@@ -205,7 +254,6 @@
     "2. 领域/Rust",
     "3. 资源/DIY/工具",
     "3. 资源/DIY/电子元器件",
-    "1. 项目/工作/OneGame/images",
     "未命名.canvas",
     "HOME.canvas",
     "Templates/HOME.canvas",
