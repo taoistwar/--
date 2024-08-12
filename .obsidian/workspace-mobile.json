@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "电路原理/电子元器件/电阻.md",
+                "file": "工具/电钻.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -160,7 +160,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "电路原理/电子元器件/电阻.md",
+            "file": "工具/电钻.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -177,7 +177,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "电路原理/电子元器件/电阻.md",
+            "file": "工具/电钻.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -189,7 +189,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "电路原理/电子元器件/电阻.md"
+            "file": "工具/电钻.md"
           }
         }
       },
@@ -222,6 +222,10 @@
   },
   "active": "7c823ae8e5bbb4a6",
   "lastOpenFiles": [
+    "工具/膨胀螺丝.md",
+    "工具/电钻.md",
+    "电路原理/电子元器件/电阻.md",
+    "工具",
     "电路原理/第6讲 电阻(resistor).md",
     "3. 资源/DIY/电子/变压器.md",
     "2. 领域/个人品牌/个人品牌.README.md",
@@ -244,9 +248,6 @@
     "-1. 捕获/电子设计入门教程-硬件.md",
     "-1. 捕获/小说名句.md",
     "2. 领域/数学/数学.README.md",
-    "0. 周期笔记/2024/2024.md",
-    "2. 领域/数学/死磕数学 幂.md",
-    "3. 资源/知识管理/obsidian 多端同步.md",
-    "3. 资源/知识管理/obsidian 文档属性.md"
+    "0. 周期笔记/2024/2024.md"
   ]
 }
