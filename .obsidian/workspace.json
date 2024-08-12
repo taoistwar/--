@@ -58,22 +58,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "2c0273c8fb61526e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "xx.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -150,7 +137,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "xx.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +158,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "xx.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,7 +205,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2c0273c8fb61526e",
+  "active": "288538aa4804d0d5",
   "lastOpenFiles": [
     "中英翻译.md",
     "xx.md",
