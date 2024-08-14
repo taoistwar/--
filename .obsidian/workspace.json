@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "电路原理/工具/工具软件.md",
+                "file": "工具/工具软件.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -99,7 +99,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -176,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "电路原理/第13讲 平衡电桥(bridge).md",
+                "file": "工具/电钻.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "电路原理/第13讲 平衡电桥(bridge).md"
+                "file": "工具/电钻.md"
               }
             }
           },
@@ -198,7 +198,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "电路原理/第13讲 平衡电桥(bridge).md",
+                "file": "工具/电钻.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -245,17 +245,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6d086e2d3fce45ca",
+  "active": "400facd3dab9dff1",
   "lastOpenFiles": [
+    "电路原理/6.002 2000 年秋 第一讲.md",
+    "工具/工具软件.md",
+    "电路原理/第13讲 平衡电桥(bridge).md",
     "工具/电钻.md",
-    "电路原理/工具/工具软件.md",
     "工具/膨胀螺丝.md",
     "工具",
-    "电路原理/第13讲 平衡电桥(bridge).md",
     "中英翻译.md",
     "xx.md",
     "未命名.md",
-    "电路原理/6.002 2000 年秋 第一讲.md",
     "电子学",
     "数学/数学公式/幂.md",
     "硬工.md",
