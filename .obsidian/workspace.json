@@ -73,7 +73,7 @@
             }
           },
           {
-            "id": "400facd3dab9dff1",
+            "id": "9401c8340ac0139e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -82,6 +82,36 @@
                 "mode": "source",
                 "backlinks": true,
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "57d3e8a4e1735847",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "工具/images/多功能钻头.png"
+              }
+            }
+          },
+          {
+            "id": "62ff7cbb70a31400",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "工具/images/老式圆饼的混凝土钻头.png"
+              }
+            }
+          },
+          {
+            "id": "26ff265dcfe6097e",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "工具/images/冲击钻原理图.webp"
               }
             }
           },
@@ -245,13 +275,24 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "400facd3dab9dff1",
+  "active": "9401c8340ac0139e",
   "lastOpenFiles": [
-    "电路原理/6.002 2000 年秋 第一讲.md",
     "工具/工具软件.md",
-    "电路原理/第13讲 平衡电桥(bridge).md",
     "工具/电钻.md",
+    "工具/ca4ddcd36616f284dd03e02d1a336b18_MD5.png",
+    "工具/images/电锤原理图.gif",
+    "工具/images/电锤冲击钻头.png",
+    "工具/images/玻璃开孔钻头.png",
+    "工具/images/三角钻头.png",
+    "工具/images/冲击钻头eb75e8ef5ae539a085783c71944fcf38_MD5.png",
+    "工具/images/麻花钻头.png",
+    "工具/images/木工钻头.png",
+    "工具/images/老式圆饼的混凝土钻头.png",
+    "工具/images/三角钻.png",
     "工具/膨胀螺丝.md",
+    "工具/images",
+    "电路原理/6.002 2000 年秋 第一讲.md",
+    "电路原理/第13讲 平衡电桥(bridge).md",
     "工具",
     "中英翻译.md",
     "xx.md",
@@ -265,12 +306,10 @@
     "数学/数学公式",
     "Excalidraw",
     "电路原理/电子元器件/二极管.md",
-    "电路原理/image/三极管的电路符号.png",
     "化学/初中化学/初中化学：绪言.md",
     "电路原理/电子元器件/三极管.md",
     "化学/初中化学",
     "化学",
-    "电路原理/image/三极管的图形符号.png",
     "电路原理/电子/运放电路.md",
     "电路原理/电子/信号.md",
     "从零开始DIY.md",
@@ -280,20 +319,10 @@
     "电路原理/第10讲 基尔霍夫定律(KCL KVL).md",
     "电路原理/第11讲 2B法.md",
     "电路原理/第12讲 电阻的串并联(serial parallel resistors).md",
-    "电路原理/第7讲 独立电源(independent source).md",
-    "电路原理/image/恒定加速度的变化率.png",
-    "电路原理/image/NPN样例电路.png",
-    "电路原理/image/PNP样例电路.png",
-    "电路原理/image/NPN.png",
-    "电路原理/image/PNP.png",
-    "电路原理/image/PNP.png",
-    "电路原理/image/非线性变化速度的累积效应.png",
-    "电路原理/image/线性变化速度的累积效应.png",
     "电路原理",
     "主页.canvas",
     "3. 资源/DIY/电气定律",
     "2. 领域/Rust",
-    "3. 资源/DIY/工具",
     "未命名.canvas",
     "HOME.canvas",
     "Templates/HOME.canvas",
