@@ -8,20 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d404747a99ac1990",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "电路原理/第6讲 电阻(resistor).md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7c823ae8e5bbb4a6",
+            "id": "c2ded893f043a527",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,57 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "8d815a9b2e13a682",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "67a368b00f7cc96f",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "a02df58fdebc545f",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "c90da0d280d0d442",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "23c9aae68e18434d",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "c2ded893f043a527",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -220,13 +158,16 @@
       "fuzzy-chinese-pinyin:FuzzySearch": false
     }
   },
-  "active": "7c823ae8e5bbb4a6",
+  "active": "c2ded893f043a527",
   "lastOpenFiles": [
-    "工具/膨胀螺丝.md",
+    "电路原理/第6讲 电阻(resistor).md",
     "工具/电钻.md",
+    "工具/ca4ddcd36616f284dd03e02d1a336b18_MD5.png",
+    "中英翻译.md",
+    "conflict-files-obsidian-git.md",
+    "工具/膨胀螺丝.md",
     "电路原理/电子元器件/电阻.md",
     "工具",
-    "电路原理/第6讲 电阻(resistor).md",
     "3. 资源/DIY/电子/变压器.md",
     "2. 领域/个人品牌/个人品牌.README.md",
     "3. 资源/DIY/电子/线性稳压器.md",
@@ -245,9 +186,6 @@
     "2. 领域/README.md",
     "0. 周期笔记/2024/Daily/06/2024-06-20.md",
     "3. 资源/丹道/丹道.README.md",
-    "-1. 捕获/电子设计入门教程-硬件.md",
-    "-1. 捕获/小说名句.md",
-    "2. 领域/数学/数学.README.md",
-    "0. 周期笔记/2024/2024.md"
+    "-1. 捕获/电子设计入门教程-硬件.md"
   ]
 }
